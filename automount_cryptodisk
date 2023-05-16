@@ -1,7 +1,7 @@
 #! /bin/bash
 
 #PLEASE, customize this variable with the correct url of your remote key:
-REMOTEKEY="192.168.0.1/key.txt"
+REMOTEKEY="192.168.0.34/uh3hewiuaf_343.key"
 
 SCRIPTNAME="automount_cryptodisk_v2"
 LOGFILE="/tmp/automount_crypto"
